@@ -9,10 +9,20 @@ pipenv-to-requirements = "*"
 black = "*"
 pynt = "*"
 tox = "*"
-jiggle_version = "*"
+jiggle-version = "*"
+pytest = "*"
+twine = "*"
+pylint = "*"
+pynt-contrib = "*"
+checksumdir = "*"
+vulture = "*"
 
 [requires]
-python_version = "3.8.0"
+python_version = "3.8"
 
 [packages]
 docopt = "*"
+vulture = "*"
+
+[pipenv]
+allow_prereleases = true

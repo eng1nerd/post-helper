@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/loskutovv/.local/share/virtualenvs/jekyll-post-helper-V4yTaxON/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": true
+}
